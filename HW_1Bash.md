@@ -37,11 +37,8 @@
 
   2. Написать скрипт который выполнит автоматически пункты 3, 4, 5, 6, 7, 8, 13
 
-    touch script.sh
-    vim script. sh
-    I (Insert)
-
- ``` #!/bin/bash
+     ```bash
+     #!/bin/bash
      mkdir folder_1
 
      cd folder_1
@@ -52,6 +49,6 @@
      ls
      mv test_1.json test_2.json a_1/ ```
 
-     Esc Shift: wq Enter
+     `Esc Shift: wq Enter`
 
    
