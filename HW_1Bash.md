@@ -49,6 +49,6 @@
      ls
      mv test_1.json test_2.json a_1/ 
 
-     Esc Shift: wq Enter
+
 
    
