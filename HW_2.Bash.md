@@ -75,37 +75,65 @@
 14. Сделать текстовый файл `tf_4.txt` в котором будет 15 строк.
 
 > cat > tf_4.txt
+
 > one
+
 > two
+
 > three
+
 > four
+
 > five
+
 > six
+
 > seven
+
 > eight
+
 > nine
+
 > ten
+
 > eleven
+
 > twelve
+
 > thirteen
+
 > fourteen
+
 > fifteen  `(Enter)` `(Ctrl + C)`
 
 15. Сделать текстовый файл `tF_5.txt` в котором будет 13 строк.
 
 > cat > tF*5.txt
+
 > one
+
 > two
+
 > three
+
 > four
+
 > five
+
 > six
+
 > seven
+
 > eight
+
 > nine
+
 > ten
+
 > eleven
+
 > twelve
+
 > thirteen  `(Enter)` `(Ctrl + C)`
 
 16. Вывести список всех файлов в папке.
