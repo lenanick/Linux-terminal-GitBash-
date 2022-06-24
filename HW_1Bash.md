@@ -28,7 +28,7 @@
 
  1. Отправить http запрос на сервер http://162.55.220.72:5005/terminal-hw-request
 
-   ````curl http://162.55.220.72:5005/terminal-hw-request```
+   ```curl http://162.55.220.72:5005/terminal-hw-request```
    
    curl 'http://162.55.220.72:5005/get_method?name=Elena&age=37'
 
@@ -37,21 +37,22 @@
 
  2. Написать скрипт который выполнит автоматически пункты 3, 4, 5, 6, 7, 8, 13
 
-   ````touch script.sh
-   vim script. sh
-   I (Insert)```
+   `touch script.sh
+    vim script. sh
+    I (Insert)`
 
-   ``` bash
-   #!/bin/bash
-   mkdir folder_1
+   ```bash
+    #!/bin/bash
+    mkdir folder_1
 
-   cd folder_1
-   mkdir f_1 f_2 f_3
-   cd f_1
-   touch t_1.txt t_2.txt t_3.txt test_1.json test_2.json
-   mkdir a_1 a_2 a_3
-   ls
-   mv test_1.json test_2.json a_1/```
+    cd folder_1
+    mkdir f_1 f_2 f_3
+    cd f_1
+    touch t_1.txt t_2.txt t_3.txt test_1.json test_2.json
+    mkdir a_1 a_2 a_3
+    ls
+    mv test_1.json test_2.json a_1/```
 
-   `Esc Shift: wq Enter`
+    `Esc Shift: wq Enter`
+
    
