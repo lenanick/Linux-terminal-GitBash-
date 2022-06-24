@@ -47,7 +47,7 @@
      touch t_1.txt t_2.txt t_3.txt test_1.json test_2.json
      mkdir a_1 a_2 a_3
      ls
-     mv test_1.json test_2.json a_1/ ```
+     mv test_1.json test_2.json a_1/ 
 
      `Esc Shift: wq Enter`
 
