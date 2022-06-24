@@ -24,13 +24,13 @@
 
 ---
 
- Задание *
+Задание *
 
-  1. Отправить http запрос на сервер http://162.55.220.72:5005/terminal-hw-request
+ 1. Отправить http запрос на сервер http://162.55.220.72:5005/terminal-hw-request
 
-   ```curl http://162.55.220.72:5005/terminal-hw-request```
+    ```curl http://162.55.220.72:5005/terminal-hw-request```
    
-   curl 'http://162.55.220.72:5005/get_method?name=Elena&age=37'
+    curl 'http://162.55.220.72:5005/get_method?name=Elena&age=37'
 
       137["Elena","37"]```
    
