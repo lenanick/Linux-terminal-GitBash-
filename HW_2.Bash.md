@@ -1,4 +1,4 @@
-  ### Terminal. HW_2
+   ###  Terminal. HW_2
 
 1. Сделать папку `dir_1`
 
