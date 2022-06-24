@@ -37,9 +37,9 @@
 
  2. Написать скрипт который выполнит автоматически пункты 3, 4, 5, 6, 7, 8, 13
 
-   `touch script.sh
+    touch script.sh
     vim script. sh
-    I (Insert)`
+    I (Insert)
 
    ```bash
     #!/bin/bash
