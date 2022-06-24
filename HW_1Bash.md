@@ -30,7 +30,7 @@
 
    ````curl http://162.55.220.72:5005/terminal-hw-request```
    
-   ```curl 'http://162.55.220.72:5005/get_method?name=Elena&age=37'
+   curl 'http://162.55.220.72:5005/get_method?name=Elena&age=37'
 
       137["Elena","37"]```
    ````
@@ -41,7 +41,7 @@
    vim script. sh
    I (Insert)```
 
-   ```bash
+   ``` bash
    #!/bin/bash
    mkdir folder_1
 
@@ -53,5 +53,5 @@
    ls
    mv test_1.json test_2.json a_1/```
 
-   Esc Shift: wq Enter
-   ````
+   `Esc Shift: wq Enter`
+   
