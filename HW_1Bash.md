@@ -1,4 +1,4 @@
-###Linux terminal (GitBash) commands
+### Linux terminal (GitBash) commands
 
 1.  Посмотреть где я - `pwd`
 2.  Создать папку - `mkdir folder_1`
@@ -24,24 +24,24 @@
 
 ---
 
-> Задание \*
+ Задание *
 
-1. Отправить http запрос на сервер.
-   http://162.55.220.72:5005/terminal-hw-request
+ 1. Отправить http запрос на сервер http://162.55.220.72:5005/terminal-hw-request
 
-   ````curl http://162.55.220.72:5005/terminal-hw-request
-   curl 'http://162.55.220.72:5005/get_method?name=Elena&age=37'
+   ````curl http://162.55.220.72:5005/terminal-hw-request```
+   
+   ```curl 'http://162.55.220.72:5005/get_method?name=Elena&age=37'
 
-   137["Elena","37"]```
-
+      137["Elena","37"]```
    ````
 
-2. Написать скрипт который выполнит автоматически пункты 3, 4, 5, 6, 7, 8, 13
+ 2. Написать скрипт который выполнит автоматически пункты 3, 4, 5, 6, 7, 8, 13
 
    ````touch script.sh
    vim script. sh
-   I (Insert)
+   I (Insert)```
 
+   ```bash
    #!/bin/bash
    mkdir folder_1
 
