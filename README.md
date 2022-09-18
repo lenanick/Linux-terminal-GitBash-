@@ -1,1 +1,1 @@
-# Linux-Terminal-GitBash
+# Linux Terminal.GitBash
